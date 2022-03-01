@@ -1,6 +1,6 @@
-
+# HIII
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
+
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("i am Prasham Soni  currently a Instrumentation and Control Student at Nirma University  " )
     print("This project might help people working with Aruco marker and not able to find a repo that works...:)  ")
@@ -16,4 +16,4 @@ if __name__ == '__main__':
 
 
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#
